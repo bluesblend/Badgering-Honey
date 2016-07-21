@@ -1,5 +1,5 @@
-Location,Name,Frequency,Duplex,Offset,Tone,rToneFreq,cToneFreq,DtcsCode,DtcsPolarity,Mode,TStep,Skip,Comment,URCALL,RPT1CALL,RPT2CALL
-0,MAR-16,156.800000,,0.000000,,88.5,88.5,023,NN,NFM,5.00,,,,,
+Location,Name,Frequency,Duplex,Offset,Tone,rToneFreq,cToneFreq,DtcsCode,DtcsPolarity,Mode,TStep,Skip,Comment,URCALL,RPT1CALL,RPT2CALL,
+0,MAR-16,156.800000,,0.000000,,88.5,88.5,023,NN,NFM,5.00,,,,,,
 1,GMR-01,462.562500,,0.000000,,88.5,88.5,023,NN,NFM,5.00,,,,,,
 2,GMR-02,462.587500,,0.000000,,88.5,88.5,023,NN,NFM,5.00,,,,,,
 3,GMR-03,462.612500,,0.000000,,88.5,88.5,023,NN,NFM,5.00,,,,,,
