@@ -1,2 +1,2 @@
 # Badgering-Honey
-CVS Frequency set for UV-5R Radio Nerds 
+.csv Frequency set for UV-5R Radio Nerds 
