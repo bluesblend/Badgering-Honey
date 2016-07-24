@@ -1,0 +1,5 @@
+Location,Name,Frequency,Duplex,Offset,Tone,rToneFreq,cToneFreq,DtcsCode,DtcsPolarity,Mode,TStep,Skip,Comment,URCALL,RPT1CALL,RPT2CALL
+1,VHF-16,156.8,,0,,88.5,88.5,23,NN,NFM,5,,,,,
+2,VHF-72,156.625,,0,,88.5,88.5,23,NN,NFM,5,,,,,
+3,ATC-YYJ,133.955,,0,,88.5,88.5,23,NN,FM,5,,,,,
+4,TRANCTL,142.795,,0,,88.5,88.5,23,,FM,5,,,,,
