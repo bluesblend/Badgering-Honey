@@ -6,18 +6,20 @@
 
 Has no ANI-ID or PTT-ID
 
-Includes (in order):
-   Marine VHF channel 16
-   GMR/FRS Frequencies
-   Private DTCS/TSQL Frequencies
-   Marine Weather channels
-   Capital Region Emergency Radio Communications Repeater
-   Malahat Repeater
-   Island Trunk Repeater System
-   Resourse Road Frequencies
-   Western Forest Products
-   ISS Up/Down
-   Provincial Emergency Preparedness
+<dl>
+  <dt>Includes (in order):</dt>
+  <dd>Marine VHF channel 16</dd>
+  <dd>GMR/FRS Frequencies</dd>
+  <dd>Private DTCS/TSQL Frequencies</dd>
+  <dd>Marine Weather channels</dd>
+  <dd>Capital Region Emergency Radio Communications Repeater</dd>
+  <dd>Malahat Repeater</dd>
+  <dd>Island Trunk Repeater System</dd>
+  <dd>Resource Road Frequencies</dd>
+  <dd>Western Forest Products</dd>
+  <dd>ISS Up/Down</dd>
+  <dd>Provincial Emergency Preparedness</dd>
+</dl>
 
 ###No_Settings_Baofeng_UV-5R.csv
 
