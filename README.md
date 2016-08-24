@@ -2,7 +2,11 @@
 
 ##General Config
 
-####General_Baofeng_UV-5R.img
+File names for .img files have the following structure:
+
+*firmware*_brand_**model**.img
+
+####xxxx_Baofeng_UV-5R.img
 
 Has no ANI-ID or PTT-ID
 
