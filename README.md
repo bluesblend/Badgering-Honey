@@ -4,7 +4,7 @@
 
 File names for .img files have the following structure:
 
-*firmware*_brand_**model**.img
+*firmware*\_brand\_**model**.img
 
 ####xxxx_Baofeng_UV-5R.img
 
