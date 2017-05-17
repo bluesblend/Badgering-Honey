@@ -1,12 +1,12 @@
-#Programming files for UV-5R Radio Nerds
+# Programming files for UV-5R Radio Nerds
 
-##General Config
+## General Config
 
 File names for .img files have the following structure:
 
 *firmware*\_brand\_**model**.img
 
-####xxxx_Baofeng_UV-5R.img
+#### xxxx_Baofeng_UV-5R.img
 
 Has no ANI-ID or PTT-ID
 
@@ -16,16 +16,21 @@ Has no ANI-ID or PTT-ID
   <dd>GMR/FRS Frequencies</dd>
   <dd>Private DTCS/TSQL Frequencies</dd>
   <dd>Marine Weather channels</dd>
+  <dd>VE7RPT on Mt. Seymour - 400W</dd>
+  <dd>Mount Doug</dd>
   <dd>Capital Region Emergency Radio Communications Repeater</dd>
   <dd>Malahat Repeater</dd>
   <dd>Island Trunk Repeater System</dd>
+  <dd>Campbell River Repearter</dd>
+  <dd>Sayward Repeater</dd>
+  <dd>Woss Repeater</dd>
   <dd>Resource Road Frequencies</dd>
   <dd>Western Forest Products</dd>
   <dd>ISS Up/Down</dd>
   <dd>Provincial Emergency Preparedness</dd>
 </dl>
 
-###No_Settings_Baofeng_UV-5R.csv
+### No_Settings_Baofeng_UV-5R.csv
 
 Same as above, but with stock ANI-ID and PTT-ID configs
 
